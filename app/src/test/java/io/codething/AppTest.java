@@ -15,6 +15,7 @@ class AppTest {
 
     /**
      * write a java test that can take this "mktx:100,cflt:200,apple:150,alpha:23,drill:78"
+     *
      */
     @Test void shouldProcessThis() {
 

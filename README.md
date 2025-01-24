@@ -1,4 +1,4 @@
-Scenario
+**Scenario**
 
 Imagine you're developing a program for a fitness tracker app.
 
@@ -6,7 +6,7 @@ The app tracks various activities like running, cycling, and swimming.
 
 Each activity has its way of calculating calories burned, but they all share some common functionalities like recording duration and distance.
 
-Task
+**Task**
 
 Add a Running activity and show calories burnt
 Add a Swimming activity and show calories burnt
